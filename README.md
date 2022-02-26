@@ -1,5 +1,5 @@
 - class semicrolon999:
-- def __init__(self):
+-   def __init__(self):
 -     👋 self.name = "semicrolon"
 -     👀 self.age = 16
 -     👀 self.gender = None
