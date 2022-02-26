@@ -1,4 +1,4 @@
-- class semicrolon999:
+-     class semicrolon999:
 -     def __init__(self):
 -     👋 self.name = "semicrolon"
 -     👀 self.age = 16
