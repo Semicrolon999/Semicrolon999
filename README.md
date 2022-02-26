@@ -1,12 +1,12 @@
-class semicrolon999:
-   def __init__(self):
-      👋 self.name = "semicrolon"
-      👀 self.age = 16
-      👀 self.gender = None
-      👀 self.human = True
-      🌱 self.single = True
-      🌱 self.real_languages = ["thai","en"]
-      🌱 self.main_languages = ["python","nodejs"]
-      👀 self.learning_languages = [No]
-      👀 self.not_languages = ["html"]
-      📫 self.contact = "semicrolon999@gmail.com"
+-class semicrolon999:
+   -def __init__(self):
+      -👋 self.name = "semicrolon"
+      -👀 self.age = 16
+      -👀 self.gender = None
+      -👀 self.human = True
+      -🌱 self.single = True
+      -🌱 self.real_languages = ["thai","en"]
+      -🌱 self.main_languages = ["python","nodejs"]
+      -👀 self.learning_languages = [No]
+      -👀 self.not_languages = ["html"]
+      -📫 self.contact = "semicrolon999@gmail.com"
