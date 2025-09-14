@@ -6,7 +6,7 @@ Contact 24 / 7 : Telegram : @Tokyokorn
 
 --------------------------------------
 
-❗ MY NAME IS : Semicrolon ✴️ MY AGE : 17 Year 📛 MY PROFESSOR : Brother 🚧 Contact : Telegram : @Tokyokorn 🖐 See you 🖐
+❗ MY NAME IS : Semicrolon ✴️ MY AGE : 18 Year 📛 MY PROFESSOR : Brother 🚧 Contact : Telegram : @Tokyokorn 🖐 See you 🖐
 
 * 🌍  I'm based in Thailand 🇹🇭
 
