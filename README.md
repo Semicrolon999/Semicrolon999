@@ -15,8 +15,8 @@ franxxxvanboy
 ┌─[franxxxvanboy@matrix]─[~]
 └──╼ $ cat /etc/franxxxvanboy.conf
 [CLASSIFIED]
-Age: 18 years
-Location: Thailand 🇹🇭
+Age: 20 years
+Location: Malaysia
 Status: ONLINE 24/7
 Clearance Level: MAXIMUM
 Contact: @franxxxvanboy
@@ -32,8 +32,7 @@ Contact: @franxxxvanboy
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF41)
+
 
 ### 🟢 PENETRATION TOOLS
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF41)
